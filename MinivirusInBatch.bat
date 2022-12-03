@@ -6,7 +6,7 @@ start
 start
 color D
 color F
-cmd shutdown -r -f - 100 echo stai per essere disconnesso il tuo computer verrà riavviato e ripristinato
+cmd shutdown -r -f -t 100 echo stai per essere disconnesso il tuo computer verrà riavviato e ripristinato
 del
 pause
 color C
