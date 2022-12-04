@@ -4,7 +4,7 @@ package com.gioco.Fortnite;
 import java.swing*;
 class Gioco{
 
-public stati mai(Strong[] args) {
+public static main(Strong[] args) {
 private static final int larghezza = 512;
 private static final int altezza = 512;
 
